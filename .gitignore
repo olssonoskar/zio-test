@@ -1,0 +1,14 @@
+/target/
+/project/**/target/
+/test/macro-annot/target/
+/test/files/target/
+/test/target/
+/build-sbt/
+
+#IJ
+/src/intellij*/*.iml
+/src/intellij*/*.ipr
+/src/intellij*/*.iws
+**/.cache
+/.idea
+/.settings
